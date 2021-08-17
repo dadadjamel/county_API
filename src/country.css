@@ -1,0 +1,22 @@
+.country {
+    background-color: white;
+    margin: 20px 30px;
+    box-shadow: 0px 0px 8px 8px lightgrey;
+    border-radius: 5px;
+    /* height: 250px; */
+}
+
+.country > img {
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+    object-fit: contain;
+}
+
+.country__info{
+    padding: 10px 20px;
+}
+
+.country__info > h3 {
+    padding: 15px 0;
+}
